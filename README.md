@@ -93,7 +93,6 @@
   - 주요 변수: 평균 풍속, 최저기온, 일사량, 미세먼지
 
 > ![특성 중요도 그래프](images/feature_importance.png)  
-> *일별 및 월별 태양광 발전에 영향을 주는 주요 변수 (예시 그래프)*
 
 ---
 
@@ -106,7 +105,6 @@
 > - **비추천 지역:** 경기도  
 > 
 > ![지역 추천 지도](images/regional_recommendation.png)  
-> *지도 출처: [Free Vector Maps](https://freevectormaps.com/south-korea/KR-EPS-01-0002)*
 
 ---
 
